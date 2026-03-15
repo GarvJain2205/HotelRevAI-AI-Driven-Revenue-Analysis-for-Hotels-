@@ -5,7 +5,7 @@ HotelRevAI is a data-driven analytics solution to help hotels optimize revenue, 
 ## 🔍 Features
 - 📊 Occupancy, ADR, and RevPAR dashboards
 - 📈 Forecasting of future bookings and revenue (Prophet & ARIMA)
-- 👥 Guest segmentation and behavior analysis
+- 👥 Guest segmentation and behavior analysis 
 - ❌ Cancellation risk prediction using Random Forest
 - 🌍 Branch-level performance comparisons
 - 💡 Revenue strategy dashboard with pricing insights
